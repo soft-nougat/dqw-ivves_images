@@ -1,0 +1,9 @@
+[theme]
+base="light"
+primaryColor="#6896f5"
+secondaryBackgroundColor="#e2e2ff"
+textColor="#214869"
+[global]
+dataFrameSerialization = "legacy"
+[server]
+maxUploadSize = 10
